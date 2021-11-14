@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+
+#div1 {
+  border-color: cadetblue;
+  border-width: 5px;
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: sandybrown;
+}
+
+#div2 {
+  border-color: cadetblue;
+  border-width: 5px;
+  height: 75vh;
+  width: 75vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+#div3 {
+  border-color: cadetblue;
+  border-width: 5px;
+  height: 50vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: coral;
+}
